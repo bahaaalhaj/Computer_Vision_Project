@@ -1,32 +1,32 @@
 # Computer Vision Project
 
-A computer-vision project workspace focused on turning visual data into practical, measurable outcomes.
+> Academic computer-vision work using **Python, OpenCV, and MediaPipe**.
 
 ## Overview
 
-This repository presents hands-on work in **computer vision**, including the typical stages of a vision workflow: preparing image data, building or applying models, and evaluating results. It is maintained as a portfolio project and a foundation for continued experimentation.
+This repository brings together practical computer-vision experiments in image processing and visual analysis. It explores how visual input can be transformed into interactive, useful software experiences.
 
-## Focus areas
+## Highlights
 
-- Image preprocessing and feature preparation
-- Computer-vision model development and experimentation
-- Prediction and evaluation workflows
-- Reproducible project structure and documentation
+- Applied image-processing workflows with **OpenCV**
+- Used **MediaPipe** for vision-based interaction
+- Explored visual analysis in practical academic applications
+- Built hands-on understanding of computer-vision pipelines
 
-## Getting started
+## Tech stack
 
-Clone the repository and review the project files for the current experiment, dataset requirements, and execution instructions.
+`Python` · `OpenCV` · `MediaPipe`
+
+## Run locally
 
 ```bash
 git clone https://github.com/bahaaalhaj/Computer_Vision_Project.git
 cd Computer_Vision_Project
 ```
 
-## Status
-
-This project is under active development. Improvements to documentation, experiments, and result reporting are planned as the work evolves.
+Refer to the source files for the current experiment and its dependencies.
 
 ## Author
 
-**Bahaa Alhaj**  
-GitHub: [@bahaaalhaj](https://github.com/bahaaalhaj)
+**Bahaa Alhaj** - AI Engineering student  
+[GitHub profile](https://github.com/bahaaalhaj)
